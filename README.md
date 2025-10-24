@@ -18,7 +18,7 @@ To write and execute Assembly language Program for sorting of data using 8051 ke
 7.	Otherwise stop the program.
 
 **PROGRAM:**
-
+```
 ORG 0000H 
 
 MOV R7,#4
@@ -50,7 +50,7 @@ DOWN:DJNZ R6,LOOP
 DJNZ R7,LOOP1
 
 END
-
+```
 
 **OUTPUT:**
 ![WhatsApp Image 2025-10-24 at 07 15 05_6fef74e3](https://github.com/user-attachments/assets/2243995b-3dfa-4cdb-8b87-dac4ab64ace7)
@@ -79,7 +79,7 @@ After execution: D:0x40H:
 7.	Otherwise stop the program.
 
 **PROGRAM:**
-
+```
 ORG 0000H 
 
 MOV R7,#4
@@ -111,22 +111,21 @@ DOWN:DJNZ R6,LOOP
 DJNZ R7,LOOP1
 
 END
-
+```
 **OUTPUT:**
+![WhatsApp Image 2025-10-24 at 07 21 15_ea07c1bb](https://github.com/user-attachments/assets/cc3a35f6-05e5-46b2-9d9c-b394ad8041d6)
+
 
 **MEMORY WINDOW:** 
 
 **Before execution:**
 D:0x40H:
-<BR>
-<BR>
-<BR>
-<BR>
+<img width="952" height="272" alt="image" src="https://github.com/user-attachments/assets/112ca933-1d38-4670-8e81-3bcc2a5f8513" />
+
 After execution:
 D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="957" height="277" alt="image" src="https://github.com/user-attachments/assets/9e3a3e1a-df98-4e2f-a826-be2cec128907" />
+
 **Result:**
 
 Thus the sorting of given data was done using 8051 keil and shown the output.
