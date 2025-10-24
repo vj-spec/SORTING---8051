@@ -53,17 +53,17 @@ END
 
 
 **OUTPUT:**
+![WhatsApp Image 2025-10-24 at 07 15 05_6fef74e3](https://github.com/user-attachments/assets/2243995b-3dfa-4cdb-8b87-dac4ab64ace7)
+
 
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="957" height="338" alt="image" src="https://github.com/user-attachments/assets/3f7d6337-bc04-498a-9553-82854781368e" />
+
 After execution: D:0x40H:
-<BR>
-<BR>
-<BR>
+<img width="957" height="336" alt="image" src="https://github.com/user-attachments/assets/99f45551-c75a-42aa-9bc5-182cf41634ba" />
+
 
 
 **(ii)	Ascending order**
